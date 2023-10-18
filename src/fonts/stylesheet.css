@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Fedra Sans Cond Std Book';
+    src: url('FedraSansCondStd-Book.eot');
+    src: url('FedraSansCondStd-Book.eot?#iefix') format('embedded-opentype'),
+        url('FedraSansCondStd-Book.woff2') format('woff2'),
+        url('FedraSansCondStd-Book.woff') format('woff'),
+        url('FedraSansCondStd-Book.ttf') format('truetype'),
+        url('FedraSansCondStd-Book.svg#FedraSansCondStd-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
